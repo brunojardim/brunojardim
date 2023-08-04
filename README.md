@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 ### Olá, seja bem vindo ao meu repositório de conhecimento em Dados e Analytics 👋
 ## Um pouco sobre a minha jornada:
-Minha vida foi transformada pelo conhecimento, e desde 2003 trabalho com processamento e análise de dados, acumulando vasta experiência nessa área. Meu propósito aqui é ajudar a acelerar sua carreira nesta área promissora. Bora ?
+Minha vida foi transformada pelo conhecimento, e desde 2003 trabalho com processamento e análise de dados, acumulando vasta experiência nessa área. Meu propósito aqui é ajudar a acelerar sua carreira nesta área tão promissora, bora ?
 
 - Sou formado em Bacharelado em Física pela Unesp
 - Fiz pós graduação em Engenharia Mecânica na USP
