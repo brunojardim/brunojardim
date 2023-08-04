@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá pessoal, sejam bem vindos ao meu repositório de conhecimento em Dados e Analytics 👋
 
 <!--
 **brunojardim/brunojardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
