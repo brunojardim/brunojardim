@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 ### Olá pessoal, sejam bem vindos ao meu repositório de conhecimento em Dados e Analytics 👋
 ## um pouco sobre mim:
-Eu tive a minha vida transformada através do conhecimento, trabalho com análise de dados desde 2003, portanto acumulei experiência suficiente para te ajudar a ter a sua carreira acelerada nesta área tão promissora. 
+Minha vida foi transformada pelo conhecimento, e desde 2003 trabalho com processamento e análise de dados, acumulando vasta experiência nessa área. Meu propósito aqui é ajudar a acelerar sua carreira nesta área promissora. Bora ?
 
 - Sou formado em Bacharelado em Física pela Unesp
 - Fiz pós graduação em Engenharia Mecânica na USP
