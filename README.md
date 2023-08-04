@@ -27,7 +27,7 @@ Minha vida foi transformada pelo conhecimento, e desde 2003 trabalho com process
 - Sou formado em Bacharelado em Física pela Unesp
 - Fiz pós graduação em Engenharia Mecânica na USP
 - Trabalhei com pesquisa científica no INPE
-- Fui professor de universidade por 3 anos
+- Fui professor de universidade para cursos de engenharias
 - Trabalhei como Cientista de Dados e Engenheiro de Dados no Banco Itaú
 - Sou co-fundador da startup PowerOfData e atual CTO da empresa
 - Sou co-fundador e Professor de Cloud Computing e Ciência de Dados da Escola PoD Academy
