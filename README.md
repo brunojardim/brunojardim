@@ -4,7 +4,7 @@
   <a href="(https://github.com/brunojardim/semana-game-changer)">
     <img src="Logotipo - PoD Academy - sem fundo-01.png" alt="Logo" >
   </a>
-
+</div>
 
 <!--
 **brunojardim/brunojardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,4 +33,4 @@ Eu tive a minha vida transformada através do conhecimento, trabalho com anális
 - Sou co-fundador e Professor de Cloud Computing e Ciência de Dados da Escola PoD Academy
 - Sou palestrante e músico, toco guitarra, muito Iron Maiden
 - Só Alegria
-- Este perfil é para trazer leveza e conhecimento na área de Dados e Analytics
+#### Este perfil é para trazer leveza e conhecimento na área de Dados e Analytics
