@@ -1,3 +1,11 @@
+<!-- Logo da PoD Academy -->
+<br />
+<div align="center">
+  <a href="(https://github.com/brunojardim/semana-game-changer)">
+    <img src="Logotipo - PoD Academy - sem fundo-01.png" alt="Logo" >
+  </a>
+
+
 ### Olá pessoal, sejam bem vindos ao meu repositório de conhecimento em Dados e Analytics 👋
 
 <!--
