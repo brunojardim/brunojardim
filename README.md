@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá pessoal, sejam bem vindos ao meu repositório de conhecimento em Dados e Analytics 👋
-## um pouco sobre mim:
+### Olá, seja bem vindo ao meu repositório de conhecimento em Dados e Analytics 👋
+## Um pouco sobre a minha jornada:
 Minha vida foi transformada pelo conhecimento, e desde 2003 trabalho com processamento e análise de dados, acumulando vasta experiência nessa área. Meu propósito aqui é ajudar a acelerar sua carreira nesta área promissora. Bora ?
 
 - Sou formado em Bacharelado em Física pela Unesp
@@ -33,4 +33,4 @@ Minha vida foi transformada pelo conhecimento, e desde 2003 trabalho com process
 - Sou co-fundador e Professor de Cloud Computing e Ciência de Dados da Escola PoD Academy
 - Sou palestrante e músico, toco guitarra, muito Iron Maiden
 - Só Alegria
-#### Este perfil é para trazer leveza e conhecimento na área de Dados e Analytics
+#### Este perfil é para trazer leveza e conhecimento na área de Dados e Analytics! 
